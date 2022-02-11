@@ -11,6 +11,10 @@ a {
   text-decoration: none;
 }
 
+button{
+  background-color: rebeccapurple;
+}
+
 * {
   box-sizing: border-box;
 }
